@@ -1,0 +1,48 @@
+/*
+Theme Name: Blogme
+Author: Awareautoh
+Author URI: https://ai-autoh.org
+Version: 1.0
+*/
+
+body{
+  font-family: Arial, sans-serif;
+  font-size: 14px;
+  color: #333;
+}
+a:link,
+a:visited{
+  color: #006ec3;
+
+}
+
+p{
+  line-height: 1.65em;
+}
+/*general layout */
+
+div.container{
+  max-width: 920px;
+  margin: 0 auto;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+/* article */
+article.post{
+  border-bottom: 1px dotted #999999;
+
+
+}
+article.post:last-of-type{
+   border-bottom: none;
+}
+
+/*  site header */
+.site-header{
+  border-bottom: 1px solid #999;
+}
+/* site footer */
+.site-footer{
+  margin-top: 30px;
+  border-top: 1px solid #999;
+}
