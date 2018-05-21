@@ -16,6 +16,6 @@ else:
 endif;
 
 get_footer();
-//put any footer here
+//put any footer here .
 
 ?>
