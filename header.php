@@ -14,4 +14,4 @@
           <h1><a href="<?php echo home_url(); ?>"><?php bloginfo('name') ?></a> </h1>
           <h5><?php bloginfo('description')?></h5>
 
-        </header> <!--/site header -->
+        </header> <!--/site header and other code --> 
