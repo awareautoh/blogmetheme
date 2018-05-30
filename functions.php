@@ -8,3 +8,4 @@ function Blogme_Resources(){
 }
 
 add_action('wp_enqueue_scripts', 'Blogme_Resources');
+?>
